@@ -1,1 +1,1 @@
-ghcr.io/snowdreamtech/frps:nightly-alpine3.20
+langgenius/dify-api:0.11.1
