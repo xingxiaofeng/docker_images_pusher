@@ -1,1 +1,1 @@
-dify-api:0.11.1
+dify-api:0.11.0
